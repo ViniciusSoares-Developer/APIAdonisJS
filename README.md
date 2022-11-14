@@ -10,11 +10,13 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 
 ## Routes
 
+```
 /register -> via POST registrar usuario
 /authenticate -> via POST authentica o login do usuario
 /products -> via GET/HEAD lista todos oos produtos e via POST armazena produto
 /products/:id -> via GET mostra determinado produto pela id
 /products/:id -> via DELETE ele exclui o produto
+```
 
 ## Setup
 
